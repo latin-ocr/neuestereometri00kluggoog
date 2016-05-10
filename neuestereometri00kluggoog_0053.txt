@@ -1,0 +1,50 @@
+48 J ohannes Kepler.
+
+gleiche Diagonalen haben, sind von ungleiehem Fla-
+eheninhalt, ausser wenn bei ihnen das Verhfiltnis des
+Durehmessers zur the dasselbe oder das umge-
+kehrte ist3 unter ihnen ist der Sehnitt Jenes Zylin-
+ders am grbssten, dessen Ηό116 (16111 Durehmesser'der
+Grundflfiehe gleieh ist.
+
+Es sei G'I der Durehmesser der Grundflaoho eines Zylin-
+ders, IA seine Hiihe, die dem Durehmesser gleieh ist und
+die halbe Fassliinge vorstellt. Der
+Sehnitt des Zylinders sei das Recht-
+eek AI ΘΟ, das hier ein Quadrat ist,
+AG die Diagonale‚ welche die quer
+vom Spundloeh A bis zum Rand des
+Bodens 10 reichende Visiermte dar-
+:3 stellt. Weil der Zylinder als gerade
+vorausgesetzt ist, so wird der Winkel
+CIA ein rechter sein. Es werde AC
+in N halbiert und um N mit dem
+Halbmesser NA ein Halbkreis be-
+sehrieben‚ welcher durch I gehen
+muss, weil AI Ο ein rechter Winkel ist. Weil ’(116 Geraden
+AI und I Ο gleieh sind, so sind die Bogen AI und I Ο Qua.-
+dranten des KreiseS‚ die Winkel INA und IN G sind 1661116,
+1111(1 IN ist (116 Senkreehte auf AC.
+
+ 
+
+Verbindet man irgendwelehe Punkte eines Quadranten‚ z. B.
+H und B dureh die Linien HA, H O, BA, BG mit den End-
+punkten A und Ο des Durehmessers, so verwandelt sich bei
+unverandert bleibender Diagonale AG das Quadrat AI 00 oder
+seine Halfte, das Dreieek AI 0, in eine Figur ΑΗΘ, ABG,
+'wobei- der reehte Winkel I · bei H und B austritt, weil ja alle
+demselben Halbkreis angehbren: so sind ΑΗΘ, ABG die Half-
+ten eines geraden Zylindersehnitts mit den Durehmessern CH
+und C'B und den H6hen HA, BA.
+
+Ieh behaupte‚ dass die Flaehe A I C am gr6ssten‚ dass ΛΗΘ
+kleiner und ABG noch kleiner ist, weil B vom Punkt I weiter
+entfernt liegt. inllen wir von den Punkten B und H auf den
+Durehmesser A C die Nol-malon HM und ΒΚ. Naeh den Lehr·
+satzen des Euklid ist jedes Dreieek flfiehengleieh mit einem
+Rechteek iiber der halben Grundlinie A Ο und mit der Dreieeks-
+h6he NI, ΜΗ, KB als Seite. Deshalb verhalt sich IN zu
+HM und ΒΚ wie die Flaehe AIG zu ΑΗΘ 1111(1 ABG. In
+dem Quadranten AI sind aber alle zum Halbmesser IN paral-
+

@@ -1,0 +1,58 @@
+106 Naehwort des Herausgobers.
+
+rata«, Tubingae 1795, don andern Rotationskbrpern, die
+Kepler als Ring, Apfel ιιιιι. bezeichnet, gewidmet ist. Bei
+der Wiohtigkeit einer genauen Fassbostimmung ist es nieht zu
+verwundern‚ dass noch eine Reihe von Mathematikern der.
+»Visierkunst‹ ihre Aufmerksamkeit zuwandte, ohne aber das
+Problem wesentlioh zu fbrdern. Die angefflhrten drei Abhand·
+lungen euthalten so ziemlioh die Lfisung aller bei Kepler ge-
+stellten Aufgaben‚ ihre Methoden sind noch recht schwerffllig
+und lassen sioh naoh dem heutigen Standpunkt bedeutond ver-
+einfaohen.
+
+Bezieht man die Gleiohung einer Ellipse (Fig.15) auf dio
+Rotationsachse AB und neunt A den Abstand des Mittelpunktes
+0 von ihr, so ist der Rotationskorper bestimmt durch:
+
+bi
+
+ds = 47vxydx und es witti, wenn x - Δ -- x, 1ιέ ff ist:
+
+S: 47c (z -Ι- Δ) Vb² - lc'z'dx oder
+4—75
+31ιῖ
+
+Rotiert das grfissere Segment ABD, ιο sind die Grenzen
+fur x bzw. -Δ und a, rotiert das kleinero ABG, so ist fur
+
+hAltzu lsssstzen -Δ und von Δ bis a zu integrioren. Man 'er-
+ι a ο
+
+S:
+
+S:-
+
+(θ - Μ’)ἓ 4 2πΔ . rotierend. Segm.
+
+ff
+
+33⁶, (ἱ)ἰ - Μ’)ἓ ὲ 2πΔ . Segm. odor
+
+S: {fif 4- 2πΔ . Segm, wobei das obere Zeiohen fur
+das gr6ss01·e Segment gilt.
+
+Nimmt man als untere Grenze' H, als obere a, ιο ergibt
+sioh fflr den Wulst oder Limbus, entstanden durch Rotation
+
+des Teiles ΕΜ) um AB, die Formel:
+
+Will man den Inhalt eines 'Fasses finden, so ist es be·
+quemer, die Flaohe in Streifen parallel zur X·thse zur zer-
+legen und einige Umformungen vorzunehmen.
+
+Wenn die Ellipso (Εἰς. 16) α’(ιι - A)' 4- b'y‘ = a²b¹ um
+die Y-thse rotiert, so erhfilt man, da ds = 2n Ἧι, fur
+
+ 
+
